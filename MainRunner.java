@@ -36,3 +36,10 @@ public class MainRunner{
 >>>>>>> PerfectSquare
     }
 }
+
+/* 
+Partner A Comments - Kapil Rajpopat:
+I learned how to use lambda expressions and why people use them over a regular method.
+I also learned about GitKraken structuring which is very confusing.
+
+*/
