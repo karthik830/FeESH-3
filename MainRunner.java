@@ -37,9 +37,16 @@ public class MainRunner{
     }
 }
 
+<<<<<<< HEAD
 /* Partner B Comments - Karthik Yagnamurthy
 
 What I learned from this is how to clone, merge, and create GitHub interfaces so I can work collaboratively.  This was extremely helpful in
 understanding the basics of GitKraken. I feel much more confident working with GitKraken than before.
+=======
+/* 
+Partner A Comments - Kapil Rajpopat:
+I learned how to use lambda expressions and why people use them over a regular method.
+I also learned about GitKraken structuring which is very confusing.
+>>>>>>> PartnerAComments
 
 */
