@@ -36,3 +36,10 @@ public class MainRunner{
 >>>>>>> PerfectSquare
     }
 }
+
+/* Partner B Comments - Karthik Yagnamurthy
+
+What I learned from this is how to clone, merge, and create GitHub interfaces so I can work collaboratively.  This was extremely helpful in
+understanding the basics of GitKraken. I feel much more confident working with GitKraken than before.
+
+*/
